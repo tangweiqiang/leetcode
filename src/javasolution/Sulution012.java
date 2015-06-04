@@ -17,7 +17,7 @@ public class Sulution012 {
                 "X", "IX", "V", "IV",
                 "I"
         };
-        StringBuffer roman = new StringBuffer();
+        StringBuilder roman = new StringBuilder();
         int i=0 ,k;
         while (num>0){
             k = num /val[i];
