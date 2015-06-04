@@ -1,5 +1,7 @@
 package javasolution;
-
+/**
+ * Created by 汤伟强 on 2015/6/4.
+ */
 public class Solution013{
     private  int[] val = new int[255];
     private void init(){

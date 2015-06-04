@@ -1,7 +1,7 @@
 package javasolution;
 
 /**
- * Created by Administrator on 2015/6/4.
+ * Created by 汤伟强 on 2015/6/4.
  */
 public class Solution012 {
     int[] val = {
