@@ -3,7 +3,7 @@ package javasolution;
 /**
  * Created by Administrator on 2015/6/4.
  */
-public class Sulution012 {
+public class Solution012 {
     public String intToRoman(int num) {
         int[] val = {
                 1000, 900, 500, 400,
@@ -31,6 +31,6 @@ public class Sulution012 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Sulution012().intToRoman(3000));
+        System.out.println(new Solution012().intToRoman(3000));
     }
 }
