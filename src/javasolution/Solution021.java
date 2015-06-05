@@ -4,11 +4,6 @@ package javasolution;
  * Created by 汤伟强 on 2015/6/5.
  */
 
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}
 public class Solution021 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1==null)return l2;
