@@ -1,7 +1,5 @@
 package javasolution;
 
-import java.util.Map;
-
 /**
  * Created by 汤伟强 on 2015/6/5.
  */
